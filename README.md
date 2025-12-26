@@ -1,2 +1,2 @@
-# Japan-Equity-Market
+In progress.
 
