@@ -1,2 +1,2 @@
-# Japan-Equity-Market-
-Japan's equity market performance analysis
+# Japan-Equity-Market
+
