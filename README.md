@@ -4,7 +4,7 @@
 # Introduction 
 This notebook compares the performance of the **S&P 500 Index** and the Tokyo Stock Exchange **Topix Index** over a 20-year periood. It was developed as part of the [Investments](https://www.reading.ac.uk/modules/documents?acyear=2025%252f6&modcode=ICM401&schoolcode=HBS%20DME%20G%7CHBS%20DME%20W%7CHBS%20FIN%20G%7CHBS%20FIN%20W%7CHBS%20IBS%20G%7CHBS%20IBS%20W%7CHBS%20LBR%20G%7CHBS%20LBR%20W%7CHBS%20MGM%20W%7CHBS%20REP%20G%7CHBS%20REP%20W&_ga=2.29825657.793882528.1770857328-282144209.1770857328) module at [Henley Business School](https://www.henley.ac.uk/).
 
-The group assignment required selecting a market, identifying industries within that market, and analyzing representative stocks for an investor that wants to maximize their wealth over a 5-year period.. A second component involved constructing an efficient frontier and a tangency portfolio using historical data.
+The group assignment required selecting a market, identifying industries within that market, and analyzing representative stocks for an investor that wants to maximize their wealth over a 5-year period. A second component involved constructing an efficient frontier and a tangency portfolio using historical data.
 
 This notebook presents my individual contribution to the first component, providing data-driven justification for the selection of the market and industry, and establishing the background for the choice of stocks.
 
