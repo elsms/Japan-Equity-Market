@@ -6,7 +6,7 @@ This notebook compares the performance of the **S&P 500 Index** and the **Topix 
 
 The group assignment required selecting a market, identifying industries within that market, and analyzing representative stocks. A second component involved constructing an efficient frontier and a tangency portfolio using historical data.
 
-This notebook presents my individual contribution to the first component, providing data-driven justification for the selection of the market, industry, and stock. Consistent with the group’s decision to avoid US markets, the analysis focuses on alternative opportunities supported by empirical evidence.
+This notebook presents my individual contribution to the first component, providing data-driven justification for the selection of the market and industry, and establishing the background for the choice of stocks.
 
 # Data 
 The [data](Data) used in this analysis was sourced from the [Bloomberg Terminal](https://www.bloomberg.com/professional/products/bloomberg-terminal/). 
@@ -42,9 +42,14 @@ Key leverage and liquiity indicators:
 * Total debt/Total equity
 * Total debt/Total assets 
 
-####
+## Sector Selection 
+* P/E comparison
+* Return comparison
+* Correlation matrix 
+* Standard deviation comparison 
 
 # Key Findings 
+
 
 
 # Conclusion 
