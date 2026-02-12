@@ -49,7 +49,7 @@ Key leverage and liquidity indicators:
 * Standard deviation comparison 
 
 # Key Findings 
-
+## Market Selection 
 #### Historical Returns Comparison
 The chart shows that both indices follow similar cyclical patterns, although the S&P 500 generally exhibits larger swings.
 
@@ -88,6 +88,7 @@ However, when looking at other leverage metrics, Total Debt/EV and Total Debt/To
 <img width="562" height="476" alt="image" src="https://github.com/user-attachments/assets/a1d31e66-e2c6-4792-9e58-ae0a0f416673" />
 </div>
 
+## Sector Selection 
 
 
 # Conclusion 
