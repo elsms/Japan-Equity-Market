@@ -91,5 +91,5 @@ However, when looking at other leverage metrics, Total Debt/EV and Total Debt/To
 ## Sector Selection 
 
 
-# Conclusion 
+# Conclusions
 While the S&P 500 generally shows higher historical returns, the Topix offers a compelling opportunity for wealth maximization over the next five years. Japanese companies combine improving profitability, strong liquidity, declining Net Debt/EBITDA, and consistently high dividend yields. Additionally, the Topix exhibits slightly lower volatility and faster decay of shocks, providing a more stable yet growth-oriented profile. For investors seeking a balance of income, stability, and growth potential, Japan emerges as the optimal choice.
